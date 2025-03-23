@@ -1,2 +1,3 @@
-from CamInstance.py import *
+from CamInstance import *
+
 caminst()
